@@ -54,3 +54,10 @@ input{
     height: 70px;
     width: 70px;
 }
+
+#projects{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 40px;
+    list-style: none;
+}
