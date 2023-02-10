@@ -1,3 +1,6 @@
 # Andrea-Torrente-Semana-1
 
-Profe no sé cómo agregar la imagen acá, busqué en internet y no entendí :'c
+Esquema Web Behance
+El ejercicio fue un intento de recrear el inicio de la página web llamada Behance, en donde puedes encontrar proyectos de otras personas.
+
+link: https://www.behance.net/

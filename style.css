@@ -43,6 +43,11 @@ input{
     height: 22px;
     width: 22px;
 }
+
+h2{
+    margin: 24px;
+}
+
 #stories{
     display: flex;
     justify-content: space-around;
@@ -58,6 +63,18 @@ input{
 #projects{
     display: flex;
     justify-content: flex-start;
-    padding-top: 40px;
+    padding-top: 32px;
     list-style: none;
+    margin: 24px;
+}
+
+#articles{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    display: flex;
+    list-style: none;
+    padding-top: 32px;
 }
