@@ -1,0 +1,56 @@
+#navigation{
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px;
+    justify-content: space-between;
+    list-style: none;
+}
+h1{
+    margin: 0;
+}
+.options{
+    padding-top: 12px;
+}
+input{
+    margin-top: 12px;
+    border-radius: 10px;
+    height: 10px;
+    width: 100px;
+    padding: 10px;
+    background-color:ivory
+}
+.share{
+    margin-top: 12px;
+    border-radius: 10px;
+    background-color:grey;
+    height: 22px;
+    width: 100px;
+}
+.icon{
+    margin-top: 12px;
+    margin-right: 20px;
+    border-radius: 2px;
+    background-color: black;
+    height: 22px;
+    width: 22px;
+}
+.profile{
+    margin-top: 12px;
+    margin-right: 20px;
+    border-radius: 22px;
+    border: none;
+    background-color:darkslateblue;
+    height: 22px;
+    width: 22px;
+}
+#stories{
+    display: flex;
+    justify-content: space-around;
+}
+.story{
+    border-radius: 70px;
+    border: none;
+    background-color:darkslateblue;
+    height: 70px;
+    width: 70px;
+}
